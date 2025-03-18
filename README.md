@@ -15,7 +15,7 @@ Me chamo Manoel Neto, tenho 19, sou natural de Jequié Bahia, sou completamente 
     <a href="https://github.com/netoaragao?tab=followers">
         <img 
             alt="Seguidores" 
-            title="Me siga no GitHub" 
+            title="Siga-me no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/netoaragao?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
@@ -24,6 +24,13 @@ Me chamo Manoel Neto, tenho 19, sou natural de Jequié Bahia, sou completamente 
             alt="Instagram" 
             title="Perfil do Instagram" 
             src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+            <a href="https://discordapp.com/users/636025141733752872">
+        <img 
+            alt="Discord" 
+            title="Perfil do Discord" 
+            src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
         />
     </a>
 </p>
