@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Manoel Neto, tenho 19, sou natural de Jequié Bahia, sou completamente apaixonado por tecnologia, tive meu primeiro computador aos 9 anos, onde comecei minha jornada pela internet por meio de games e vídeos, hoje sou fluente em Inglês e estou cursando Engenharia de Software.
+Me chamo Manoel Neto, tenho 19, sou natural de Jequié Bahia, sou Cristão praticante e seguidor de Jesus Cristo, também sou completamente apaixonado por tecnologia, tive meu primeiro computador aos 9 anos, onde comecei minha jornada pela internet por meio de games e vídeos, hoje sou fluente em Inglês e estou cursando Engenharia de Software.
 
 <p align="left">
     <a href="https://github.com/netoaragao?tab=repositories&sort=stargazers">
