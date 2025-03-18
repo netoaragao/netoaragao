@@ -19,6 +19,13 @@ Me chamo Manoel Neto, tenho 19, sou natural de Jequié Bahia, sou completamente 
             src="https://custom-icon-badges.demolab.com/github/followers/netoaragao?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+        <a href="https://instagram.com/aragaogomesneto">
+        <img 
+            alt="Instagram" 
+            title="Perfil do Instagram" 
+            src="https://custom-icon-badges.demolab.com/badge/-aragaogomesneto-hotpink?style=for-the-badge&logo=mention&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
