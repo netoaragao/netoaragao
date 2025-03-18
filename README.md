@@ -61,6 +61,7 @@ Me chamo Manoel Neto, tenho 19, sou natural de Jequié Bahia, sou Cristão prati
 
 ### 📊 Estatísticas
 
+<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -77,3 +78,4 @@ Me chamo Manoel Neto, tenho 19, sou natural de Jequié Bahia, sou Cristão prati
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=netoaragao&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=2" 
   />
 
+</p>
