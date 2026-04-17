@@ -2,7 +2,10 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Manoel Neto, tenho 19 anos e sou natural de Jequié, Bahia. Sou cristão praticante e seguidor de Jesus Cristo. Além disso, sou completamente apaixonado por tecnologia. Tive meu primeiro computador aos 9 anos, quando comecei minha jornada na internet por meio de jogos e vídeos. Hoje, sou fluente em inglês e estou cursando Engenharia de Software.
+Estudante de Engenharia de Software (UNOPAR) e Técnico em 
+Informática (IFBA), apaixonado por tecnologia desde os 9 anos. 
+Tenho experiência com Python e interesse em IA e Ciência de Dados. 
+Fluente em inglês, buscando minha primeira oportunidade na área de tech.
 
 <p align="left">
     <a href="https://github.com/netoaragao?tab=repositories&sort=stargazers">
